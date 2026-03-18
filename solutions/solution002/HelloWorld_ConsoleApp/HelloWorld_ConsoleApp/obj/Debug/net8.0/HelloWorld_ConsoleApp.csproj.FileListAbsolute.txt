@@ -1,0 +1,15 @@
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\bin\Debug\net8.0\HelloWorld_ConsoleApp.exe
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\bin\Debug\net8.0\HelloWorld_ConsoleApp.deps.json
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\bin\Debug\net8.0\HelloWorld_ConsoleApp.runtimeconfig.json
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\bin\Debug\net8.0\HelloWorld_ConsoleApp.dll
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\bin\Debug\net8.0\HelloWorld_ConsoleApp.pdb
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\obj\Debug\net8.0\HelloWorld_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\obj\Debug\net8.0\HelloWorld_ConsoleApp.AssemblyInfoInputs.cache
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\obj\Debug\net8.0\HelloWorld_ConsoleApp.AssemblyInfo.cs
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\obj\Debug\net8.0\HelloWorld_ConsoleApp.csproj.CoreCompileInputs.cache
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\obj\Debug\net8.0\HelloWorld_ConsoleApp.sourcelink.json
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\obj\Debug\net8.0\HelloWorld_ConsoleApp.dll
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\obj\Debug\net8.0\refint\HelloWorld_ConsoleApp.dll
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\obj\Debug\net8.0\HelloWorld_ConsoleApp.pdb
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\obj\Debug\net8.0\HelloWorld_ConsoleApp.genruntimeconfig.cache
+E:\dotNET\c_sharpe_learning\solutions\solution002\HelloWorld_ConsoleApp\HelloWorld_ConsoleApp\obj\Debug\net8.0\ref\HelloWorld_ConsoleApp.dll
